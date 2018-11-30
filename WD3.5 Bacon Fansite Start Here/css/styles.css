@@ -1,0 +1,31 @@
+body {
+  background-color: #feffdf
+}
+
+h1 {
+  color: #8B0000;
+  font-size: 80px;
+  font-family: cursive;
+
+}
+
+h2 {
+  background-color: #ffe79a;
+  font-family: sans-serif;
+}
+p {
+color: #ef5a5a;
+
+}
+
+hr {
+  border-style: dotted none none none;
+  background-color: #FEFFDF;
+  width: 5%;
+  border-width: 10px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
